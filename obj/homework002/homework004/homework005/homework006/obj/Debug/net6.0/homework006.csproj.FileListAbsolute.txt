@@ -1,0 +1,15 @@
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\bin\Debug\net6.0\homework006.exe
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\bin\Debug\net6.0\homework006.deps.json
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\bin\Debug\net6.0\homework006.runtimeconfig.json
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\bin\Debug\net6.0\homework006.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\bin\Debug\net6.0\homework006.pdb
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\obj\Debug\net6.0\homework006.csproj.AssemblyReference.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\obj\Debug\net6.0\homework006.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\obj\Debug\net6.0\homework006.AssemblyInfoInputs.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\obj\Debug\net6.0\homework006.AssemblyInfo.cs
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\obj\Debug\net6.0\homework006.csproj.CoreCompileInputs.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\obj\Debug\net6.0\homework006.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\obj\Debug\net6.0\refint\homework006.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\obj\Debug\net6.0\homework006.pdb
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\obj\Debug\net6.0\homework006.genruntimeconfig.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\obj\Debug\net6.0\ref\homework006.dll
