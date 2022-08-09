@@ -1,0 +1,15 @@
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\bin\Debug\net6.0\homework007.exe
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\bin\Debug\net6.0\homework007.deps.json
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\bin\Debug\net6.0\homework007.runtimeconfig.json
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\bin\Debug\net6.0\homework007.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\bin\Debug\net6.0\homework007.pdb
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\obj\Debug\net6.0\homework007.csproj.AssemblyReference.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\obj\Debug\net6.0\homework007.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\obj\Debug\net6.0\homework007.AssemblyInfoInputs.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\obj\Debug\net6.0\homework007.AssemblyInfo.cs
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\obj\Debug\net6.0\homework007.csproj.CoreCompileInputs.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\obj\Debug\net6.0\homework007.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\obj\Debug\net6.0\refint\homework007.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\obj\Debug\net6.0\homework007.pdb
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\obj\Debug\net6.0\homework007.genruntimeconfig.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework002\homework004\homework005\homework006\homework007\obj\Debug\net6.0\ref\homework007.dll
