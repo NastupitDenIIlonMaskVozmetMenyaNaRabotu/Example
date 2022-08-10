@@ -1,6 +1,7 @@
-﻿class Program 
+﻿using System;
+class Programm
 { 
-static void SelectRace() 
+     static void SelectRace() 
     { 
         string[] nameRace = {"Люди", "Эльф", "Орги", "Гоблины", "Маги"}; 
         for (int i=0; i<nameRace.Length-1; i++) 
