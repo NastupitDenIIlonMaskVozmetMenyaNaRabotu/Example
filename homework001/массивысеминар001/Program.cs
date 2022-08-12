@@ -1,7 +1,7 @@
-﻿using System;
+﻿ using System;
 class Programm
 { 
-     static void SelectRace() 
+    static void SelectRace() 
     { 
         string[] nameRace = {"Люди", "Эльф", "Орги", "Гоблины", "Маги"}; 
         for (int i=0; i<nameRace.Length-1; i++) 
@@ -25,8 +25,8 @@ class Programm
         int numberSex = Convert.ToInt32(Console.ReadLine()); 
         Console.WriteLine("Ваш пол " + nameSex[numberSex-1]);  
     } 
-static void SelectClass() 
-{ 
+    static void SelectClass() 
+    { 
         string[] nameClass = {"Чернокнижник", "Воин", "Вор"}; 
         WriteChoise(nameClass); 
         Console.WriteLine("Выберите свой класс"); 
@@ -34,15 +34,15 @@ static void SelectClass()
         Console.WriteLine("Ваш класс " + nameClass[numberClass-1]);  
     } 
  
-static void WriteChoise(string[] args) 
-{ 
+    static void WriteChoise(string[] args) 
+    { 
          
     for (int i=0; i<args.Length-1; i++) 
     { 
         Console.Write(i+1 + "-" + args[i] + ", "); 
     } 
      Console.WriteLine(args.Length + "-" + args[args.Length-1] + ", "); 
-} 
+    } 
  
     static void Main(string[] args) 
     { 

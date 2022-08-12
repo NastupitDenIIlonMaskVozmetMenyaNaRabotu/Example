@@ -1,0 +1,15 @@
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\bin\Debug\net6.0\массивысеминар001.exe
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\bin\Debug\net6.0\массивысеминар001.deps.json
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\bin\Debug\net6.0\массивысеминар001.runtimeconfig.json
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\bin\Debug\net6.0\массивысеминар001.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\bin\Debug\net6.0\массивысеминар001.pdb
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\obj\Debug\net6.0\массивысеминар001.csproj.AssemblyReference.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\obj\Debug\net6.0\массивысеминар001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\obj\Debug\net6.0\массивысеминар001.AssemblyInfoInputs.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\obj\Debug\net6.0\массивысеминар001.AssemblyInfo.cs
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\obj\Debug\net6.0\массивысеминар001.csproj.CoreCompileInputs.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\obj\Debug\net6.0\массивысеминар001.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\obj\Debug\net6.0\refint\массивысеминар001.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\obj\Debug\net6.0\массивысеминар001.pdb
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\obj\Debug\net6.0\массивысеминар001.genruntimeconfig.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\homework001\массивысеминар001\obj\Debug\net6.0\ref\массивысеминар001.dll
