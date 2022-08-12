@@ -1,0 +1,15 @@
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\bin\Debug\net6.0\homework015.exe
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\bin\Debug\net6.0\homework015.deps.json
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\bin\Debug\net6.0\homework015.runtimeconfig.json
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\bin\Debug\net6.0\homework015.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\bin\Debug\net6.0\homework015.pdb
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\obj\Debug\net6.0\homework015.csproj.AssemblyReference.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\obj\Debug\net6.0\homework015.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\obj\Debug\net6.0\homework015.AssemblyInfoInputs.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\obj\Debug\net6.0\homework015.AssemblyInfo.cs
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\obj\Debug\net6.0\homework015.csproj.CoreCompileInputs.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\obj\Debug\net6.0\homework015.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\obj\Debug\net6.0\refint\homework015.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\obj\Debug\net6.0\homework015.pdb
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\obj\Debug\net6.0\homework015.genruntimeconfig.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\HOMEWORK\obj\homework015\obj\Debug\net6.0\ref\homework015.dll
